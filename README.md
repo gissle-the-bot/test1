@@ -16,21 +16,21 @@ The user need to write a slash-command named `ask`, for example: `/ask exampleUs
 
 He/she will then get a confirmation message that the request is sent to the admin channel:
 
-<img src="https://github.com/gissle-the-bot/test1/blob/master/images-ss/preview-user-request?raw=true" height="200" width="auto" >
+<img src="https://github.com/gissle-the-bot/test1/blob/master/preview-user-request?raw=true" height="200" width="auto" >
 
 The admin users will then be prompted with a give/denial access choice:
 
-<img src="https://github.com/gissle-the-bot/test1/blob/master/images-ss/preview-admin-give-access.png?raw=true" height="200" width="auto" >
+<img src="https://github.com/gissle-the-bot/test1/blob/master/preview-admin-give-access.png?raw=true" height="200" width="auto" >
 
 If the admin user denial access to the user, they will be prompted with a "Access was not granted to ...." and the user will also receive a message. If the admin user give access, they will be prompted with a new message to choose team to add the user into:
 
-<img src="https://github.com/gissle-the-bot/test1/blob/master/images-ss/preview-admin-choose-team.png?raw=true" height="200" width="auto" >
+<img src="https://github.com/gissle-the-bot/test1/blob/master/preview-admin-choose-team.png?raw=true" height="200" width="auto" >
 
 After choosing team, the admins are done and will receive a summary message:
 
-<img src="https://github.com/gissle-the-bot/test1/blob/master/images-ss/preview-admin-summary.png?raw=true" height="200" width="auto" >
+<img src="https://github.com/gissle-the-bot/test1/blob/master/preview-admin-summary.png?raw=true" height="200" width="auto" >
 
 The user will receive a confirmation message:
 
-<img src="https://github.com/gissle-the-bot/test1/blob/master/images-ss/preview-user-respond.png?raw=true" height="200" width="auto" >
+<img src="https://github.com/gissle-the-bot/test1/blob/master/preview-user-respond.png?raw=true" height="200" width="auto" >
 
