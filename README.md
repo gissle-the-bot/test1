@@ -28,9 +28,9 @@ If the admin user denial access to the user, they will be prompted with a "Acces
 
 After choosing team, the admins are done and will receive a summary message:
 
-<img src="https://github.com/gissle-the-bot/test1/blob/master/preview-admin-summary.png?raw=true" height="auto" width="400" >
+<img src="https://github.com/gissle-the-bot/test1/blob/master/preview-admin-summary.png?raw=true" height="auto" width="auto" >
 
 The user will receive a confirmation message:
 
-<img src="https://github.com/gissle-the-bot/test1/blob/master/preview-user-respond.png?raw=true" height="auto" width="400" >
+<img src="https://github.com/gissle-the-bot/test1/blob/master/preview-user-respond.png?raw=true" height="auto" width="auto" >
 
