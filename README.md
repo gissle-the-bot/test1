@@ -16,7 +16,7 @@ The user need to write a slash-command named `ask`, for example: `/ask exampleUs
 
 He/she will then get a confirmation message that the request is sent to the admin channel:
 
-<img src="https://github.com/gissle-the-bot/test1/blob/master/preview-user-request?raw=true" height="auto" width="auto" >
+<img src="https://github.com/gissle-the-bot/test1/blob/master/preview-user-request.png?raw=true" height="auto" width="auto" >
 
 The admin users will then be prompted with a give/denial access choice:
 
